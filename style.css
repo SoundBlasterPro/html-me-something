@@ -3,11 +3,22 @@ p, li, h1, h2, h3, h4, h5, h6{
     color: #5a5a5a;
 }
 
+body{
+    background-color: lightgray;
+
+}
+
 .page{
     background-color: #fffced;
     width: 768px;
     margin: auto;
     padding: 10px 25px 10px 25px;
+    box-shadow: 0 5px 10px #5a5a5a;
+    border-radius: 2px;
+}
+.page img{
+    box-shadow: 0 5px 10px #5a5a5a;
+    align-content: center;  
 }
 
 .contact{
