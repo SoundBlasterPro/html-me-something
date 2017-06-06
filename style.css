@@ -8,7 +8,7 @@ body{
 
 }
 
-.page{
+#page{
     background-color: #fffffd;
     width: 768px;
     margin: auto;
@@ -16,7 +16,7 @@ body{
     box-shadow: 0 5px 10px #5a5a5a;
     border-radius: 5px;
 }
-.page img{
+#page img{
     box-shadow: 0 5px 10px #5a5a5a;
     align-content: center;  
 }
@@ -25,7 +25,7 @@ body{
     text-align: right;
 }
 
-.bottom{
+footer{
     background-color: whitesmoke;
     height: 50px;
     text-align: right;
@@ -33,3 +33,4 @@ body{
     margin-top: 10px;
 
 }
+
